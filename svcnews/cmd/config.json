@@ -1,0 +1,15 @@
+{
+    "timePeriodScan": 15,
+    "sites": [
+        {"url": "https://habr.com/ru/rss/articles/?fl=ru"
+        },
+        {"url": "https://www.cnews.ru/inc/rss/news.xml"
+        }
+
+    ]
+    "listener":
+               {"protocol": "http",
+                "address": "localhost",
+                "port": "8086"
+                }
+}
